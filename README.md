@@ -18,7 +18,7 @@ Este proyecto permite generar **boletines de calificaciones personalizados en fo
 ## Estructura del proyecto
 
 ```
-boletin-calificaciones-mec-paraguay/
+/ boletin-calificaciones-mec-paraguay
 ├── boletin_calificaciones.py                              # Script principal.
 ├── Boletín_Alan_Gustavo_Aquino_Romero_20251103_2034.pdf   # Ejemplo de salida.
 ├── logo_mec.png                                           # Logo del MEC (opcional).
