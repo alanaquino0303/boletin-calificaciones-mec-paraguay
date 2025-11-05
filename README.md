@@ -39,23 +39,26 @@ Este proyecto permite generar **boletines de calificaciones personalizados en fo
 
 ## Ejecución
 
-### En Windows
-1. Abrir una terminal (CMD o PowerShell).
+### En Linux o macOS
+1. Abrir una terminal.
 2. Navegar hasta el directorio del proyecto.
 3. Ejecutar:
-   ```bash
-   python boletin_calificaciones.py
-   ```
-
-### En macOS o Linux
-1. Abrir una terminal.
-2. Navegar al directorio del proyecto.
-3. Ejecutar:
+   
    ```bash
    python3 boletin_calificaciones.py
    ```
 
+### En Windows
+1. Abrir una terminal.
+2. Navegar hasta el directorio del proyecto.
+3. Ejecutar:
+   
+   ```bash
+   python boletin_calificaciones.py
+   ```
+
 El programa solicitará los datos paso a paso y generará un archivo PDF con el formato:
+
 ```
 Boletín_Nombre_Apellido_YYYYMMDD_HHMM.pdf
 ```
